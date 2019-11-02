@@ -1,6 +1,7 @@
 {
     "orgName": "Acme",
     "edition": "Enterprise",
+    "username": "joachimsundbo@gmail.com",
     "features": ["Communities", "ServiceCloud", "Chatbot"],
     "settings": {
         "communitiesSettings": {
